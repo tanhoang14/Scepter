@@ -26,6 +26,7 @@ https://www.figma.com/file/6FZQNomBT91ftjO5jDqv5N/SCEPTER-CS160-Project?node-id=
 * React
 * CSS
 * Mapbox
+* React-Leaflet
 * Material UI
 * Redux toolkit
 * Socket.io
